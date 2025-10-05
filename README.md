@@ -25,4 +25,4 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
 ## 💬 Contact
 - Website: [https://photopeg.com](https://photopeg.com)  
-- Email: support@photopeg.com (optional – replace if you want)
+- Email: massin.bsn@gmail.com
